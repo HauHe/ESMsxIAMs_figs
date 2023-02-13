@@ -9,3 +9,5 @@ The plots are sorted into the following categories:
 * [Electricity Supply](electricity_supply.md)
 * [Heat](heat.md)
 * [Hydrogen](hydrogen.md)
+
+The source code to generate the figures is available in the GitHub repository [ESMsxIAMs](https://github.com/HauHe/ESMsxIAMs).
