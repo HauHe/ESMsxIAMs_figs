@@ -1,5 +1,8 @@
 # Emissions
 Plots for the below shown IAMC variables are available. Access the plot by clicking on the variable name.
+* [CH4 Energy Supply at two-region aggregation](https://hauhe.github.io/ESMsxIAMs_figs/figs_html/Emissions_CH4_Energy_Supply-Two-Regions.html)
+* [CH4 Energy Supply at nine-region aggregation](https://hauhe.github.io/ESMsxIAMs_figs/figs_html/Emissions_CH4_Energy_Supply-Nine-Regions.html)
+* [CH4 Energy Supply at country resolution](https://hauhe.github.io/ESMsxIAMs_figs/figs_html/Emissions_CH4_Energy_Supply-Countries.html)
 * [CO2 Energy Supply Electricity at two-region aggregation](https://hauhe.github.io/ESMsxIAMs_figs/figs_html/Emissions_CO2_Energy_Supply_Electricity-Two-Regions.html)
 * [CO2 Energy Supply Electricity at nine-region aggregation](https://hauhe.github.io/ESMsxIAMs_figs/figs_html/Emissions_CO2_Energy_Supply_Electricity-Nine-Regions.html)
 * [CO2 Energy Supply Electricity at country resolution](https://hauhe.github.io/ESMsxIAMs_figs/figs_html/Emissions_CO2_Energy_Supply_Electricity-Countries.html)
